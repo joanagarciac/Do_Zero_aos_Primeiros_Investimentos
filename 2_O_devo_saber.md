@@ -2,7 +2,7 @@
 
 Para quem deseja iniciar no mundo dos investimentos, as fontes apontam que é essencial dominar uma série de conceitos básicos para tomar decisões seguras e alinhadas à sua realidade. Os principais tópicos que um iniciante deve saber incluem:
 
-1. **Planejamento FinanceiOro e Definição de Metas**.
+1. **Planejamento Financeiro e Definição de Metas**.
 
 Antes de investir, é fundamental organizar as finanças. Isso envolve conhecer exatamente o seu custo de vida e estabelecer um teto de gastos. Especialistas sugerem regras como a "50-30-20", onde 50% da renda vai para gastos essenciais, 30% para estilo de vida e 20% para investimentos. Além disso, todo investimento deve ter um propósito claro (metas financeiras), seja para o curto, médio ou longo prazo, como a construção de uma aposentadoria.
 
