@@ -20,9 +20,9 @@ Com base nestes estudos, você tem à disposição as informações essenciais p
 Para entender como fazer seu dinheiro "trabalhar para você" desfrute desete repositório na seguinte ordem:
 
 1. [2_O_que_devo_saber.md](2_O_que_devo_saber.md)
-2. 3_Que_tipo_de_investidor_sou.md
-3. 4_Exemplificando.md
-4. 5_Resumindo.md
+2. [3_Que_tipo_de_investidor_sou.md](3_Que_tipo_de_investidor_sou.md)
+3. [4_Exemplificando.md](4_Exemplificando.md)
+4. [5_Resumindo.md](5_Resumindo.md)
 
 
 
